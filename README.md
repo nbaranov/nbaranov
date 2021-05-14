@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita Baranov 
 - 🌱 I’m currently learning course Python full-stack web-developer:
-- HTML, CSS, Base of Python, Base of OOP in Python, Frontend Java-script (ES6) (now i'm here), Backend Python Django, Base of DevOps, 
+- HTML, CSS, Base of Python, Base of OOP in Python, Frontend Java-script (ES6), Backend Python Django (i'm here now), Base of DevOps, 
 - 📫 E-mail: nbaranov.vrn@gmail.com/
 - 📫 Telegram: @nbaranov
